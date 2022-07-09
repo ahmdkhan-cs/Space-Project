@@ -1,14 +1,6 @@
 # Space project
 
 
-### First of all
-
-- cd server/src
-- cp config_example.js config.js
-- inside the config.js file add your MongoDB database URL
-
-
-
 ### To run the project
 
 - Goto root directory
